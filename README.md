@@ -17,3 +17,6 @@ To deploy this project run
   python application.py
 ```
 
+```bash
+  pytohn
+```
